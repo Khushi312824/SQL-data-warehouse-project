@@ -97,7 +97,7 @@ data-warehouse-project/
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-👋 Hey, I'm Niharika Desineedi
+👋 Hey, I'm Khushi Wankhade
 
 I’m a Data Analyst with hands-on experience in building a scalable Data Warehouse for efficient reporting and analysis.
 
